@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammed-aslam-pm ,i am a passionated application developer
+- 👋 Hi, I’m @muhammed-aslam-pm ,a passionated application developer
 - 
 - 👀 I’m interested in Developing Apps
 - 🌱 I’m currently learning Flutter
