@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @muhammed-aslam-pm ,a passionated application developer
+- 👋 Hi, I’m Muhammed Aslam P M ,
+ a dedicated Flutter Developer enthusiastic about crafting scalable mobile applications. With a keen focus on writing clean, maintainable code and a knack for problem-solving, I'm driven to continuously learn and grow in the dynamic realm of mobile development
 - 
 - 👀 I’m interested in Developing Apps
 - 🌱 I’m currently learning Flutter
